@@ -1,0 +1,10 @@
+Runners\RunnerTest.class
+Runners\RunnerAllure.class
+page\DrivenPage.class
+page\Browser.class
+page\TimePage.class
+page\HomePage.class
+Steps\LoginSteps.class
+Allure\AllureReports.class
+Steps\NaoComprarSteps.class
+Steps\ComprarSteps.class
